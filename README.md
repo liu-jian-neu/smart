@@ -21,12 +21,12 @@
 
 - **一行命令进行安装**
 
-`curl https://raw.githubusercontent.com/imbakn/smart/master/install.sh -L -o - | sh`
+`curl https://raw.githubusercontent.com/liu-jian-neu/smart/master/install.sh -L -o - | sh`
 
 - **常规安装**
 
 ```bash
-git clone https://github.com/imbakn/smart ~/.smart
+git clone https://github.com/liu-jian-neu/smart ~/.smart
 cd ~/.smart
 ./install.sh
 ```
